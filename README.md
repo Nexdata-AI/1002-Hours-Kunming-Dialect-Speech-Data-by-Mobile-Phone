@@ -4,7 +4,8 @@
 ## Description
 2,284 native speakers of Kunming dialect participated in the recording, with authentic accent and from multiple age groups. The recorded script covers a wide range of topics such as generic, interactive, on-board, and home. Local people in Kunming participated in quality check and proofreading, and the text was transferred accurately. It matches with mainstream Android and Apple system phones.
 
-For more details, please refer to the link: https://bit.ly/3UByXf1
+For more details, please refer to the link: https://www.nexdata.ai/datasets/943?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
